@@ -1,4 +1,4 @@
-# Golang Framework 是怎麼做出這些酷功能?
+# Golang Framework 是怎麼做出這些酷功能？
 
 這是我於 2023 年 12 月在 DevFest Taipei 的演講
 
